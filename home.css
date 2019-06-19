@@ -1,0 +1,165 @@
+body
+{
+background-color:#999999;
+margin:0;
+padding:0;
+}
+.menu
+{
+background-color:#0099FF;
+width:auto;
+height:150px;
+border-bottom:1px solid #999999;
+}
+.menu ul
+{
+font-size:19px;
+margin-top:110px;
+float:left;
+list-style:none;
+list-style-type:none;
+}
+.menu ul li
+{
+display:inline-block;
+list-style-type:none;
+list-style:none;
+}
+.menu ul li a
+{
+padding:10px 25px;
+font-size:22px;
+margin-top:80px;
+text-decoration:none;
+color:white;
+font:Georgia, "Times New Roman", Times, serif;
+}
+.menu ul li a:hover
+{
+background-color:#000000;
+color:#FFFFFF;
+}
+
+.image img
+{
+padding:15px;
+float:left;
+width:150px;
+}
+.left
+{
+background-color:#FFFFFF;
+color:#FF0033;
+border-radius:10px;
+margin-top:10px;
+margin-left:250px;
+text-align:center;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:18px;
+height:auto;
+width:1050px;
+float:left;
+
+}
+.left p
+{
+text-align:center;
+color:#000000;
+font-size:14px;
+font-weight:bold;
+text-align:center;
+}
+.right
+{
+background-color:#FFFFFF;
+color:#FFFFFF;
+border-radius:15px;
+margin-top:10px;
+margin-left:40px;
+height:200px;
+width:150px;
+float:left;
+
+}
+.right img
+{
+padding:15px;
+float:left;
+width:130px;
+margin-left:-10px;
+}
+.cate select
+{
+width:205px;
+outline:none;
+height:40px;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:18px;
+font-weight:bold;
+}
+.footer
+{
+background-color:#0099FF;
+height:300px;
+width:auto;
+margin-top:1500px;
+}
+table tr,th
+{
+background-color:#FFFFFF;
+font-size:24;
+color:#CC0033;
+}
+table
+{
+cursor:pointer;
+margin-left:300px;
+text-align:center;
+width:60%;
+height:120px;
+}
+table  input[type=text]
+{
+outline:none;
+font-size:13px;
+}
+table  input[type=submit]
+{
+padding:10px;
+border:none;
+outline:none;
+font-size:12px;
+background-color:#FF0000;
+}
+table  input[type=submit]:hover
+{
+cursor:pointer;
+background-color:darkorange;
+color:#000000;
+font-weight:bold;
+transition:all 0.5s ease-in;
+}
+.allbooks
+{
+padding:20px;
+margin-left:30px;
+background-color:#CC0033;
+height:130px;
+width:170px;
+color:#FFFFFF;
+border-radius:10px;
+float:left;
+
+}
+.allbooks p
+{
+margin-left:-20px;
+color:#000000;
+text-align:center;
+padding:30px;
+}
+.new
+{background-color:#000000;
+height:400px;
+width:300px;
+}

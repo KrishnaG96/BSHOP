@@ -1,0 +1,45 @@
+.fback
+{
+font-weight:bold;
+margin-top:50px;
+font-family:Geneva, Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+font-size:18px;
+font-style:oblique;
+text-align:center;
+border-radius:20px;
+margin-left:450px;
+background-color:#000000;
+height:400px;
+width:300px;
+}
+.fback input[type=text],[type=password],textarea
+{
+background-color:#0099FF;
+text-decoration:none;
+overflow:hidden;
+border-style:none;
+border-radius:10px;
+padding:10px 10px;
+cursor:pointer;
+}
+.fback input[type=submit]
+{
+background-color:#FF66FF;
+outline:none;
+border:none;
+width:120px;
+cursor:pointer;
+margin-top:20px;
+border-radius:15px;
+padding:10px;
+}
+.fback input[type=submit]:hover
+{
+background-color:darkorange;
+color:#000000;
+transition:all 0.5s ease-in;
+}
+
+
+
